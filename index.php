@@ -13,9 +13,8 @@
 
             <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">รายละเอียดหลักสูตรสาขาวิทยาการข้อมูล</a>
             <br>
-            <a>
-            <img src="https://www.matichon.co.th/wp-content/uploads/2018/11/Mickey-Mouse-2.jpg" width="500" height="600">
-            </a>
+            <img src="https://www.matichon.co.th/wp-content/uploads/2018/11/Mickey-Mouse-2.jpg" width="500" height="600"></a>
+            
 
         </body>
 </html>
