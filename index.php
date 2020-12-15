@@ -11,7 +11,7 @@
             <p>ชื่อหลักสูตรภาษาไทย : หลักสูตรวิทยาศาสตร์บัณฑิต สาขาวิชาวิทยาการข้อมูล</p>
             <p>ชื่อหลักสูตรภาษาอังกฤษ : Bachelor of Science Program in Data Science</p>
 
-            <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">รายละเอียดหลักสูตรสาขาวิทยาการข้อมูล</a>
+            <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">รายละเอียดหลักสูตรสาขาวิทยาการข้อมูล
             <br>
             <img src="https://www.matichon.co.th/wp-content/uploads/2018/11/Mickey-Mouse-2.jpg" width="500" height="600"></a>
             
